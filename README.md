@@ -1,5 +1,5 @@
 <ul>План:</ul>
-<ol>Архитектура</ol>
+<li>Архитектура</li>
 <ol>Поведение системы</ol>
 <ol>Implimentation</ol>
 <ol>UI/Swing</ol>
