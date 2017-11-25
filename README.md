@@ -1,9 +1,9 @@
-<ul>План:</ul>
+<ol>План:</ol>
 <li>Архитектура</li>
-<ol>Поведение системы</ol>
-<ol>Implimentation</ol>
-<ol>UI/Swing</ol>
-<ol>Сетевая игра</ol>
+<li>Поведение системы</li>
+<li>Implimentation</li>
+<li>UI/Swing</li>
+<li>Сетевая игра</li>
 КРЕСТИКИ НОЛИКИ
 
 Поле 3 на 3
