@@ -10,6 +10,7 @@
 Фишки: "Х" - "О"
 Условие выигрыша - 8 комбинаций.
 Учет ходов.
+```java
 public class XOField {private String winCombination = "123,456,789,147,258,369,159,357";
 
 public String getWinCombination() {
